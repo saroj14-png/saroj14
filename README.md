@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saroj14
+Hello! I'm a Front-End Web Engineer from New York.
 - 👀 I’m interested in front-end development 
 - 🌱 I’m currently learning how to write code efficiently
 - 📫 You can reach at sarojani.powar@gmail.com
