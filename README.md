@@ -1,4 +1,4 @@
-Hello! I'm a Front-End Web Engineer from New York.
+Hello! I'm a Front-End Web Engineer from California.
 - 👀 I’m interested in front-end development 
 - 🌱 I’m currently learning how to write code efficiently
 - 📫 You can reach at sarojani.powar@gmail.com
